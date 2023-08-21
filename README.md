@@ -3,3 +3,5 @@
 # fdf
 Produces visual wireframe representations of applicable text files given to the program as an argument.
 
+The mathematics of the program are based on Bresenham's line algorithm.
+
