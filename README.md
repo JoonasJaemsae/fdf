@@ -6,3 +6,5 @@ Produces visual wireframe representations of applicable text files given to the 
 The mathematics of the program are based on Bresenham's line algorithm.
 
 The program makes use of the MiniLibX library for rendering the graphics.
+
+![GIF representation of the Pyra pattern](https://github.com/JoonasJaemsae/fdf/blob/JoonasJaemsae-addpyra/pyra.gif)
